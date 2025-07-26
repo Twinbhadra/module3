@@ -1,0 +1,22 @@
+.custom-header {
+      background-color: #999;
+      color: black;
+      padding: 20px;
+      font-size: 24px;
+      font-weight: bold;
+    }
+
+    .menu-title {
+      text-align: center;
+      margin: 30px 0 20px;
+      font-weight: bold;
+    }
+
+    .card {
+      background-color: #ccc;
+    }
+
+    .card-title {
+      text-align: center;
+      font-weight: bold;
+    }
